@@ -29,7 +29,7 @@ STEP6: - Run recognize.py script for face recognition.
 
 ## Authors
 
-* **Madhav Gotmare** - *Initial work* - [MadhavGotmare](https://github.com/MadhavGotmare)
+* **Salman Rizvi** - *Initial work* -
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
